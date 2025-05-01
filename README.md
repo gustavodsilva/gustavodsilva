@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavodsilva
 - 👀 I’m interested in ... Desenvolvimento Web / Desenvolvimento Back End
-- 🌱 I’m currently learning ...  HTML5, CSS3 e Python
+- 🌱 I’m currently learning ...  HTML | CSS | JS | PYTHON | DOCKER
 - 💞️ I’m looking to collaborate on ... Análise e desenvolvimento de sistemas
 - 📫 How to reach me ... gustavo.gsilva83@gmail.com
 
