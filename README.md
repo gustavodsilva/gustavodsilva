@@ -1,15 +1,6 @@
 <h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
-<p align="center">💻 Desenvolvedor Fullstack | 🎓 Formado em Análise e Desenvolvimento de Sistemas</p>
-
----
-
-## ✨ Sobre mim
-
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 💻 Desenvolvedor **Fullstack**, sempre evoluindo
-- 🚀 Apaixonado por tecnologia, automação e boas práticas
-- 🧠 Explorando novas stacks, desafios técnicos e projetos open source
+<p align="center">💻 Desenvolvedor C# | 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós graduando em Arquitetura Dotnet</p>
 
 ---
 
