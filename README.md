@@ -1,30 +1,58 @@
 <h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
-<p align="center">💻 Desenvolvedor C# | 🎓 Formado em Análise e Desenvolvimento de Sistemas e pós graduando em Arquitetura Dotnet</p>
+<p align="center">
+💻 Analista e Desenvolvedor de Sistemas | C# .NET | ERP e Integrações | 🎓 Pós em Arquitetura Dotnet
+</p>
 
 ---
 
-## 🧰 Tecnologias que uso
+## 🛠 Tecnologias e Ferramentas que Uso
 
 <table>
   <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br>C#
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br>.NET
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" width="40"/><br>SQL Server
+    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/><br>Power BI
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
+    </td>
   </tr>
 </table>
+
+---
+
+## 📂 Projetos Recentes
+
+- **ERP TOTVS RM** – Scripts, integrações e suporte avançado.
+- **Dashboard Power BI** – Relatórios gerenciais e insights estratégicos.
+- **Automação de Processos** – C# .NET e SQL Server para otimizar tarefas internas.
+- *(Adicione mais projetos relevantes com links para repositórios se possível)*
 
 ---
 
@@ -47,9 +75,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
-<!---
-gustavodsilva/gustavodsilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
