@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
 <p align="center">
-💻 Analista e Desenvolvedor de Sistemas | C# .NET | ERP e Integrações | 🎓 Pós em Arquitetura Dotnet
+💻 Analista e Desenvolvedor de Sistemas | C# .NET | ERP e Integrações | 🎓 Pós-graduação em Arquitetura Dotnet
 </p>
 
 ---
@@ -40,19 +40,19 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
     </td>
     <td align="center">
-      <!-- Espaço vazio para manter alinhamento -->
+      <!-- Espaço vazio para alinhamento -->
     </td>
   </tr>
 </table>
 
 ---
 
-## 📂 Projetos Recentes
+## 📂 Projetos e Experiências Relevantes
 
-- **ERP TOTVS RM** – Scripts, integrações e suporte avançado.
-- **Dashboard Power BI** – Relatórios gerenciais e insights estratégicos.
-- **Automação de Processos** – C# .NET e SQL Server para otimizar tarefas internas.
-- *(Adicione mais projetos relevantes com links para repositórios se possível)*
+- **ERP TOTVS RM** – Scripts, integrações e suporte avançado para otimização de processos internos.  
+- **Dashboards Power BI** – Criação de relatórios gerenciais e insights estratégicos para tomada de decisão.  
+- **Automação de Processos C#/.NET** – Desenvolvimento de soluções internas para aumentar produtividade e reduzir retrabalho.  
+- *(Adicione links para repositórios se disponíveis)*  
 
 ---
 
