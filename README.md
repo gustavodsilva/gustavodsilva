@@ -28,9 +28,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/><br>Power BI
-    </td>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
     </td>
     <td align="center">
@@ -50,25 +47,14 @@
 ## 📂 Projetos e Experiências Relevantes
 
 - **ERP TOTVS RM** – Scripts, integrações e suporte avançado para otimização de processos internos.  
-- **Dashboards Power BI** – Criação de relatórios gerenciais e insights estratégicos para tomada de decisão.  
 - **Automação de Processos C#/.NET** – Desenvolvimento de soluções internas para aumentar produtividade e reduzir retrabalho.  
-- *(Adicione links para repositórios se disponíveis)*  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavodsilva&show_icons=true&theme=radical&count_private=true&cache_seconds=1" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavodsilva&layout=compact&theme=radical&cache_seconds=1" height="180"/>
-</div>
 
 ---
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/gustavodasilvatiano" target="_blank">
+  <a href="https://www.linkedin.com/in/gttiano/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gustavo.gsilva83@gmail.com" target="_blank">
