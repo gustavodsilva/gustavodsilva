@@ -17,7 +17,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/><br>.NET
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Microsoft_SQL_Server_Logo.png" width="40"/><br>SQL Server
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mssql/mssql-original.svg" width="40"/><br>SQL Server
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
@@ -27,9 +27,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br>JavaScript
-    </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40"/><br>Power BI
     </td>
@@ -41,6 +38,9 @@
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br>Docker
+    </td>
+    <td align="center">
+      <!-- Espaço vazio para manter alinhamento -->
     </td>
   </tr>
 </table>
